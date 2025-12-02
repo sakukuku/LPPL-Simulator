@@ -1,6 +1,7 @@
 streamlit
 numpy
 pandas
-PyWavelets
 scipy
+pywavelets
 matplotlib
+ccxt
