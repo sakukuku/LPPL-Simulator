@@ -4,3 +4,4 @@ pandas
 pywt
 scipy
 matplotlib
+PyWavelets
