@@ -1,6 +1,6 @@
 streamlit
 numpy
 pandas
+PyWavelets
 scipy
 matplotlib
-PyWavelets
