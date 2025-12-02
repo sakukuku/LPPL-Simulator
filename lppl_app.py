@@ -2,7 +2,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import PyWavelets as pywt
+import pywt
 from scipy import optimize
 from scipy.signal import argrelextrema
 from dataclasses import dataclass
