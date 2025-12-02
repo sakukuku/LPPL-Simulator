@@ -1,3 +1,4 @@
+# Force rebuild to fix PyWavelets dependency issue (Dec 2, 2025)
 import streamlit as st
 import numpy as np
 import pandas as pd
